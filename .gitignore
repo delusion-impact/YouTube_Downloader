@@ -43,3 +43,6 @@ Thumbs.db
 # Database
 *.db
 *.sqlite
+
+# Output (создаётся при запуске backup.py)
+backup_channel/
